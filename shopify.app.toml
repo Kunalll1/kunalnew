@@ -3,7 +3,7 @@
 client_id = "6f133d886e40665cbd8f77937c7c14dc"
 name = "kunalnew"
 handle = "kunalnew"
-application_url = "https://organ-shield-manchester-jacob.trycloudflare.com"
+application_url = "https://speed-ca-games-mailed.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://organ-shield-manchester-jacob.trycloudflare.com/auth/callback",
-  "https://organ-shield-manchester-jacob.trycloudflare.com/auth/shopify/callback",
-  "https://organ-shield-manchester-jacob.trycloudflare.com/api/auth/callback"
+  "https://speed-ca-games-mailed.trycloudflare.com/auth/callback",
+  "https://speed-ca-games-mailed.trycloudflare.com/auth/shopify/callback",
+  "https://speed-ca-games-mailed.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
